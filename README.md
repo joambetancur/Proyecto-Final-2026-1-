@@ -6,13 +6,13 @@ Proyecto académico para la asignatura **Informática II (2026-1)** de la **Univ
 El objetivo es diseñar una experiencia de juego tipo *runner* donde un **Código Malicioso** debe evadir los protocolos de limpieza de un **Antivirus**. 
 
 ## 🧩 Ejes Temáticos de Implementación
-* **Arquitectura C++:** Uso de punteros inteligentes, estructuras de control de flujo y optimización de memoria.
+* **C++:** Uso de punteros inteligentes, estructuras de control de flujo y optimización de memoria.
 * **Paradigma de Objetos (POO):** Modelado de entidades mediante clases.
-* **Motores Físicos:** Programación de trayectorias parabólicas, oscilaciones armónicas y rebotes elásticos basados en leyes físicas reales.
-* **Interfaz Gráfica (Qt):** Manejo de la `QGraphicsScene` para el renderizado y el sistema de `Signals & Slots` para eventos de usuario
+* **Motores Físicos:** Programación de trayectorias parabólicas, oscilaciones y rebotes.
+* **Interfaz Gráfica (Qt)** 
 
 > [!TIP]
-> Puedes consultar la lógica extendida de los niveles y las ecuaciones cinemáticas seleccionadas en la carpeta `momento-1/`.
+> Puedes consultar la lógica extendida de los niveles y las ecuaciones cinemáticas seleccionadas en la carpeta `momento_1/`.
 
 ## 💻 Stack Tecnológico
 * **Lenguaje base:** C++ (Estándar 11/14/17).
