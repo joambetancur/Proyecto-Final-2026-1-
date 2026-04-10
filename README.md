@@ -12,7 +12,7 @@ El objetivo es diseñar una experiencia de juego tipo *runner* donde un **Códig
 * **Interfaz Gráfica (Qt)** 
 
 > [!TIP]
-> Puedes consultar la lógica extendida de los niveles y las ecuaciones cinemáticas seleccionadas en la carpeta `momento_1/`.
+> Puedes consultar la lógica extendida de los niveles en la carpeta `momento_1/`.
 
 ## 💻 Stack Tecnológico
 * **Lenguaje base:** C++ (Estándar 11/14/17).
